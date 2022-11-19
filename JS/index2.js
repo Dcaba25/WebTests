@@ -177,3 +177,4 @@ console.log(p.calculateAge())
 ///Manipulare DOM
 var query = document.getElementsByClassName("page-titlu")
 console.log(query)
+//new change
